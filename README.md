@@ -1,4 +1,4 @@
-#[Introduction to Software Package ALW_Polar.zip]
+Introduction to Software Package ALW_Polar.zip
 
 This software package includes all MATLAB source codes to reproduce the results in this paper. First, please enter 3.1415926 to decrypt the package. Then you will find 4 folders and 5 files in the root folder.
 1. algorithm
